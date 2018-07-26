@@ -10,4 +10,4 @@ This WinForm Application will turn your SQL tables into C# classes.
 
 4- Type your Class, Namespace name
 
-<img width="100%" alt="ekran alintisi" src="https://user-images.githubusercontent.com/4674660/43261957-261d189c-90e7-11e8-82df-b13c84ac1d3a.PNG">
+<img width="50%" alt="ekran alintisi" src="https://user-images.githubusercontent.com/4674660/43261957-261d189c-90e7-11e8-82df-b13c84ac1d3a.PNG">
