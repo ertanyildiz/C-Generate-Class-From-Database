@@ -6,6 +6,6 @@ This WinForm Application will create your SQL tables as C# classes.
 
 2- Connect your server
 
-3- Select your database
+3- Select your database & table
 
 4- Type your Class, Namespace name
