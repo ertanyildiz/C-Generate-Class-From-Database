@@ -1,4 +1,4 @@
-This WinForm Application will create your SQL tables as C# classes. 
+This WinForm Application will turn your SQL tables into C# classes.
 
 
 ## Usage
